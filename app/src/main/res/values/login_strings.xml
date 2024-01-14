@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="introduce_tu_correo">Introduce tu correo</string>
+    <string name="password">contraseña</string>
+    <string name="log_in">Iniciar Sesión</string>
+    <string name="has_olvidado_la_password">¿Has olvidado la contraseña?</string>
+    <string name="sign_up">Registrarse</string>
+</resources>
