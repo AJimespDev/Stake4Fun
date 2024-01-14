@@ -17,5 +17,7 @@ Stake4Fun se presenta como una aplicación innovadora que se centrará en la div
 - **Sistema de Ranking:** Accumula tus coins y muestra a los demás quién lidera en el ranking de Stake4Fun. ¡Cuanto mayor sea tu saldo de coins, más destacarás entre la comunidad y mayores serán las recompensas que puedes obtener! 
 
 <div align="center">
-  <img src="https://www.linkedin.com/in/ajimesp/" alt="logo" width="250">
+  <a href="https://www.linkedin.com/in/ajimesp/">
+    <img src="https://github.com/AJimespDev/Stake4Fun/assets/152422892/23fe22e3-328a-44c2-9eb1-1170b2dc3be8" alt="logo" width="250"/>
+  </a>
 </div>
